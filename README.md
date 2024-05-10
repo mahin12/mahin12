@@ -2,9 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Personal Website Project</b>
+  - [Personal Website Project](https://mdmahinarafat.netlify.app/)
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>NMap Scanning project (Ongoing)</b>
+  - [NMap scanning project. . Ongoing](https://youtu.be/i-rUcpROfUY?si=vmy_5GWlDh7Xid4V)
 
 <h2>📺 Popular YouTube Videos</h2>
 
