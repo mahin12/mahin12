@@ -1,4 +1,4 @@
-<h1>Hi, this is Mahin! <br/><a href="https://github.com/mahin12">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast!!</a></h1>
+<h1>Hi, this is Mahin! <br/><a href="https://github.com/mahin12">Programmer</a>, <a href="https://www.linkedin.com/in/mahin-arafat/">Cybersecurity Enthusiast!!</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
