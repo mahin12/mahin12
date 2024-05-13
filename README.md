@@ -1,5 +1,7 @@
 <h1>Hi, this is Mahin! <br/><a href="https://github.com/mahin12">Programmer</a>, <a href="https://www.linkedin.com/in/mahin-arafat/">Cybersecurity Enthusiast!!</a></h1>
 
+<p>Thank you for taking the time to explore my GitHub! This repository is designed to highlight my progression in cybersecurity and the various projects I've been involved in.</p>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Personal Website Project</b>
