@@ -2,15 +2,15 @@
 
 <p>Thank you for taking the time to explore my GitHub! This repository is designed to highlight my progression in cybersecurity and the various projects I've been involved in.</p>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Personal Website Project</b>
-  - [Personal Website Project](https://mdmahinarafat.netlify.app/)
-
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>NMap Scanning project (Ongoing)</b>
   - [NMap scanning project. . Ongoing](https://youtu.be/i-rUcpROfUY?si=vmy_5GWlDh7Xid4V)
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Personal Website Project</b>
+  - [Personal Website Project](https://mdmahinarafat.netlify.app/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
