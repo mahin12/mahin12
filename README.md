@@ -6,8 +6,10 @@
 
 - <b>NMap Scanning project</b>
   - [NMap scanning project](https://youtu.be/i-rUcpROfUY?si=vmy_5GWlDh7Xid4V)
-- <b>Azure Virtual Machine Setup (Ongoing)</b>
-  - [Setting up Azure Virtual Machine. . Ongoing](https://github.com/mahin12/Azure-Virtual-Machines)
+- <b>Azure Virtual Machine Setup</b>
+  - [Setting up Azure Virtual Machine](https://github.com/mahin12/Azure-Virtual-Machines)
+- <b>Basics of Kusto Query Language (KQL)</b>
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
