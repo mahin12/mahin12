@@ -2,6 +2,8 @@
 
 <p>Thank you for taking the time to explore my GitHub! This repository is designed to highlight my progression in cybersecurity and the various projects I've been involved in.</p>
 
+Over recent years, my career has spanned various tech roles, driven by a passion for leveraging tech to tackle problems and improve user interactions. From resolving complex tech issues to overseeing service requests and implementing software solutions, these experiences have honed my IT skills and shaped my digital worldview. Eventually, I found my niche in cybersecurity, a field that captivates me with its intricate challenges in protecting digital infrastructures. My IT background laid the groundwork for a deep dive into cybersecurity.
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>NMap Scanning project</b>
