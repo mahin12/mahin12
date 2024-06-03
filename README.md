@@ -6,6 +6,8 @@ Over recent years, my career has spanned various tech roles, driven by a passion
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Microsoft Azure Project</b>
+  - [Honeynet - Modelling New](https://github.com/mahin12/Kusto-Query-Language)
 - <b>NMap Scanning project</b>
   - [NMap scanning project](https://youtu.be/i-rUcpROfUY?si=vmy_5GWlDh7Xid4V)
 - <b>Azure Virtual Machine Setup</b>
