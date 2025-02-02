@@ -21,7 +21,7 @@ Over recent years, my career has spanned various tech roles, driven by a passion
 - <b>Personal Website Project</b>
   - [Personal Website Project](https://mdmahinarafat.netlify.app/)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [NMap basic scanning](https://www.youtube.com/watch?v=i-rUcpROfUY)
 - [My take for Module 2- Foundations of Cybersecurity](https://www.youtube.com/watch?v=TpMDvxs_dWQ)
