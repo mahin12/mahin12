@@ -27,7 +27,7 @@
   </li>
   <li><b>Windows Health Monitor</b>
     <ul>
-      <li><a href="https://github.com/mahin12/Windows-Health-Monitor">PowerShell script that generates a scored health report for Windows — covering disk, event logs, services, network, GPU, and more</a></li>
+      <li><a href="https://github.com/mahin12/Windows-Health-Monitor">Windows Health Report - powershell</a></li>
     </ul>
   </li>
 </ul>
