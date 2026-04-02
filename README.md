@@ -27,7 +27,7 @@
   </li>
   <li><b>Windows Health Monitor</b>
     <ul>
-      <li><a href="https://github.com/mahin12/Windows-Health-Monitor">Windows Health Report - powershell</a></li>
+      <li><a href="https://github.com/mahin12/Windows-Health-Monitor">Windows Health Report - PowerShell</a></li>
     </ul>
   </li>
 </ul>
